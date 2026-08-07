@@ -15,10 +15,10 @@ Each project focuses on solving a business problem through data preparation, ana
 ---
 
 ## About Me
-
-Junior Data Analyst with experience in SQL, PostgreSQL, Tableau, Python, and business analytics.
-
-Interested in product analytics, marketing analytics, SaaS metrics, and dashboard development.
+I am a Junior Data Analyst with 8 years of experience in business process automation, electronic document management, and ERP systems. I have a strong analytical mindset and experience working with
+business systems to improve and optimize operational processes.
+Currently, I am transitioning into Data Analytics, expanding my expertise in tools and methods such as SQL, Google Sheets, BigQuery, Python, data visualization, and A/B testing.
+I am seeking a Data Analyst role in a collaborative team where I can further develop my skills and apply my experience to solve business problems and support better data-driven decision-making.
 
 ---
 
