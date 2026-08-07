@@ -9,7 +9,7 @@ Each project focuses on solving a business problem through data preparation, ana
 
 | Project | Business Question | Tools |
 |---------|-------------------|-------|
-| [📈 Marketing Channel Performance Analysis](marketing-channel-performance-analysis/) | Which marketing channel performs best and why? | SQL • PostgreSQL • Tableau |
+| [📈 Marketing Channel Performance Analysis](marketing-chanel-performance-analysis/) | Which marketing channel performs best and why? | SQL • PostgreSQL • Tableau |
 | [📊 SaaS Revenue & Customer Metrics Dashboard](saas-revenue-customer-metrics-dashboard/) | How do subscription metrics change over time and what drives revenue? | SQL • PostgreSQL • Tableau |
 
 ---
