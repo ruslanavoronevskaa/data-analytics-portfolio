@@ -11,14 +11,18 @@ Each project focuses on solving a business problem through data preparation, ana
 |---------|-------------------|-------|
 | [📈 Marketing Channel Performance Analysis](marketing-chanel-performance-analysis/) | Which marketing channel performs best and why? | SQL • PostgreSQL • Tableau |
 | [📊 SaaS Revenue & Customer Metrics Dashboard](saas-revenue-customer-metrics-dashboard/) | How do subscription metrics change over time and what drives revenue? | SQL • PostgreSQL • Tableau |
+| [💰 Salary Analysis in Ukraine] (Salary-project/) | What factors are associated with differences in salary levels? | Python/Pandas • Data Analysis • Tableau |
 
 ---
 
 ## About Me
-I am a Junior Data Analyst with 8 years of experience in business process automation, electronic document management, and ERP systems. I have a strong analytical mindset and experience working with
-business systems to improve and optimize operational processes.
-Currently, I am transitioning into Data Analytics, expanding my expertise in tools and methods such as SQL, Google Sheets, BigQuery, Python, data visualization, and A/B testing.
-I am seeking a Data Analyst role in a collaborative team where I can further develop my skills and apply my experience to solve business problems and support better data-driven decision-making.
+For 8 years, I worked in accounting automation, helping businesses solve problems in their systems and processes. Analytics was always part of my work - from understanding what the client really needed, to identifying the root cause of a problem and finding the right solution.
+
+Now I want to take that experience further through Data Analytics: look beyond individual problems, understand the bigger picture, uncover opportunities for growth and scalability, and help businesses make better decisions through data.
+
+I am developing my skills in SQL, Python, Power BI, Tableau, BigQuery, Excel, data visualization, and A/B testing. What I bring with me is not only a technical toolkit, but 8 years of experience working with real business processes, clients, and real problems.
+
+I am looking for my place in a team of like-minded people who are curious about how things work, value continuous growth and automation, and believe that good decisions start with good data.
 
 ---
 
@@ -79,6 +83,29 @@ SQL • PostgreSQL • Tableau
 ➡️ **Project:** `saas-revenue-customer-metrics-dashboard`
 
 ---
+
+### 💰 Salary Analysis in Ukraine
+
+**Business Question**
+
+What factors are associated with differences in salary levels in Ukraine?
+
+**Highlights**
+
+- Analyzed salary data by gender, age, education, professional group, and other characteristics
+- Compared salary levels across different employee groups and identified key patterns
+- Investigated the relationship between education, experience, and salary levels
+- Visualized the findings and translated them into key insights
+- Developed recommendations based on the results of the analysis
+- Presented the findings through an article and a video presentation
+
+**Tools**
+
+Python/Pandas • Data Analysis • Data Visualization
+
+➡️ Project: salary-analysis-ukraine
+
+--
 
 ## Business Metrics
 
