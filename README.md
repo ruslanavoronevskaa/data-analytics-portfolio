@@ -11,7 +11,7 @@ Each project focuses on solving a business problem through data preparation, ana
 |---------|-------------------|-------|
 | [📈 Marketing Channel Performance Analysis](marketing-chanel-performance-analysis/) | Which marketing channel performs best and why? | SQL • PostgreSQL • Tableau |
 | [📊 SaaS Revenue & Customer Metrics Dashboard](saas-revenue-customer-metrics-dashboard/) | How do subscription metrics change over time and what drives revenue? | SQL • PostgreSQL • Tableau |
-| [💰 Salary Analysis in Ukraine](Salary-project/) | What factors are associated with differences in salary levels? | Python/Pandas • Data Analysis • Tableau |
+| [💰 Salary Analysis in Ukraine](salary-analysis-ukraine/) | What factors are associated with differences in salary levels? | Python/Pandas • Data Analysis • Tableau |
 
 ---
 
