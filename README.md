@@ -11,7 +11,8 @@ Each project focuses on solving a business problem through data preparation, ana
 |---------|-------------------|-------|
 | [📈 Marketing Channel Performance Analysis](marketing-chanel-performance-analysis/) | Which marketing channel performs best and why? | SQL • PostgreSQL • Tableau |
 | [📊 SaaS Revenue & Customer Metrics Dashboard](saas-revenue-customer-metrics-dashboard/) | How do subscription metrics change over time and what drives revenue? | SQL • PostgreSQL • Tableau |
-| [💰 Salary Analysis in Ukraine](https://github.com/ruslanavoronevskaa/salary-analysis-ukraine/) | What factors are associated with differences in salary levels? | Python/Pandas • Data Analysis • Tableau |
+| [📈 Sales, Logistics & Employee Performance Analysis](northwind-traders-analysis/) | How are sales, orders, logistics performance, and employee performance distributed across the business? | DAX • Power BI • Power Query |
+| [💰 Salary Analysis in Ukraine](https://github.com/ruslanavoronevskaa/salary-analysis-ukraine/) | What factors are associated with differences in salary levels in Ukraine? | Python/Pandas • Data Analysis • Tableau |
 
 ---
 
@@ -31,6 +32,9 @@ I am looking for my place in a team of like-minded people who are curious about 
 - SQL
 - PostgreSQL
 - Tableau Public
+- Power BI
+- DAX
+- Google Sheets
 - Python
 - Pandas
 - NumPy
@@ -84,10 +88,34 @@ SQL • PostgreSQL • Tableau
 
 ---
 
+### 📈 Sales, Logistics & Employee Performance Analysis
+
+**Business Question**
+
+How are sales, orders, logistics performance, and employee performance distributed across the business?
+
+**Highlights**
+
+- Built a multi-page Power BI dashboard using a star schema
+- Analyzed Sales, Orders, Discounts, Delivery Performance and Employee Performance
+- Compared logistics partners by order volume, on-time delivery rate and countries served
+- Analyzed employee workload, sales performance and yearly sales rankings
+- Created an interactive drill-through page for detailed employee order history
+- Built DAX measures and calculated fields for key business metrics
+
+**Tools**
+
+Power BI • DAX • Power Query
+
+➡️ **Project:** `northwind-traders-analysis`
+
+---
+
 ### 💰 Salary Analysis in Ukraine
 
 **Business Question**
 
+A social research project analyzing salary levels in Ukraine and the factors associated with salary differences.
 What factors are associated with differences in salary levels in Ukraine?
 
 **Highlights**
@@ -127,6 +155,25 @@ Python/Pandas • Data Analysis • Data Visualization
 - Revenue Churn Rate
 - Customer Lifetime (LT)
 - Lifetime Value (LTV)
+
+### Sales Analytics
+- Revenue
+- Order Count
+- Discount Rate
+- Sales by Country
+- Top Customers
+
+### Logistics Analytics
+- On-Time Delivery Rate
+- Late Delivery Rate
+- Orders by Logistics Partner
+- Orders by Country
+
+### Employee Performance
+- Employee Sales
+- Orders per Employee
+- Average Weighted Discount
+- Annual Sales Ranking
 
 ---
 

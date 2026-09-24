@@ -1,0 +1,37 @@
+Table,Field,Description,Опис
+orders,orderID,Unique identifier for each order,Унікальний ідентифікатор кожного замовлення
+orders,customerID,The customer who placed the order,"Клієнт, який оформив замовлення"
+orders,employeeID,The employee who processed the order,"Працівник, який опрацював замовлення"
+orders,orderDate,The date when the order was placed,Дата оформлення замовлення
+orders,requiredDate,The date when the customer requested the order to be delivered,"Дата, на яку клієнт замовив доставку"
+orders,shippedDate,The date when the order was shipped,Дата відправлення замовлення
+orders,shipperID,The ID of the shipping company used for the order,"Ідентифікатор служби доставки, використаної для замовлення"
+orders,freight,The shipping cost for the order (USD),Вартість доставки замовлення (USD)
+order_details,orderID,The ID of the order this detail belongs to,"Ідентифікатор замовлення, до якого належить ця деталь"
+order_details,productID,The ID of the product being ordered,Ідентифікатор замовленого товару
+order_details,unitPrice,The price per unit of the product at the time the order was placed (USD - discount not included),"Ціна за одиницю товару на момент оформлення замовлення (у доларах США, без урахування знижки)"
+order_details,quantity,The number of units being ordered,"Кількість одиниць, що замовляються"
+order_details,discount,The discount percentage applied to the price per unit,"Відсоток знижки, що застосовується до ціни за одиницю"
+customers,customerID,Unique identifier for each customer,Унікальний ідентифікатор для кожного клієнта
+customers,companyName,The name of the customer's company,Назва компанії клієнта
+customers,contactName,The name of the primary contact for the customer,Ім’я основної контактної особи клієнта
+customers,contactTitle,The job title of the primary contact for the customer,Посада основної контактної особи з боку клієнта
+customers,city,The city where the customer is located,"Місто, у якому знаходиться клієнт"
+customers,country,The country where the customer is located,"Країна, у якій знаходиться клієнт"
+products,productID,Unique identifier for each product,Унікальний ідентифікатор для кожного товару
+products,productName,The name of the product,Назва продукту
+products,quantityPerUnit,The quantity of the product per package,Кількість продукту в упаковці
+products,unitPrice,The current price per unit of the product (USD),Поточна ціна за одиницю товару (USD)
+products,discontinued,Indicates with a 1 if the product has been discontinued,"Позначається цифрою 1, якщо виробництво продукту припинено."
+products,categoryID,The ID of the category the product belongs to,"Ідентифікатор категорії, до якої належить товар"
+categories,categoryID,Unique identifier for each product category,Унікальний ідентифікатор для кожної категорії товарів
+categories,categoryName,The name of the category,Назва категорії
+categories,description,A description of the category and its products,Опис категорії та її товарів
+employees,employeeID,Unique identifier for each employee,Унікальний ідентифікатор для кожного співробітника
+employees,employeeName,Full name of the employee,Повне ім'я працівника
+employees,title,The employee's job title,Посада працівника
+employees,city,The city where the employee works,"Місто, в якому працює працівник"
+employees,country,The country where the employee works,"Країна, в якій працює працівник"
+employees,reportsTo,The ID of the employee's manager,Ідентифікатор керівника співробітника
+shippers,shipperID,Unique identifier for each shipper,Унікальний ідентифікатор для кожного відправника
+shippers,companyName,The name of the company that provides shipping services,"Назва компанії, що надає послуги з перевезення"
